@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @n-ce short for Enceladus. 🌕
+- 👋 Hi, I’m Enceladus officially known as Animesh. 🌕
 - 👀 I’m interested in computational development for the future.
 - 🌱 I’m currently learning Artificial Neural Networks with JavaScript.
 - 💞️ I’m looking to collaborate on web applications based on AI specifically very lite and fast packages.
