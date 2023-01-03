@@ -9,12 +9,15 @@
 <a href="https://t.me/encetg"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 <a href="https://n-ce.github.io/n-ce/"><img src="https://img.shields.io/badge/Portfolio-%23121011.svg?style=for-the-badge&logo=github"></a>
 <br>
+<hr>
 <img src="https://github-readme-stats.vercel.app/api?username=n-ce&hide_title=true&theme=merko&hide_border=true&hide_rank=true&bg_color=0f01&border_radius=10">
-<h4>Developing / Coding Platform</h4>
-
-<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
-<img src="https://img.shields.io/badge/WEB-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white">
-<h4>Technologies</h4>
+<hr>
+<h3>Computing Platform</h3>
+<em>HW : Samsung Galaxy J4</em>
+<br>
+<em>SW : Android 10, Chrome 108, SpckCodeEditor, Termux.</em>
+<hr>
+<h3>Technologies</h3>
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
