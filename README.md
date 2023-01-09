@@ -1,7 +1,7 @@
-- *👋 Hi, This is **Animesh**, a Vanilla JS Developer.*
+- *👋 Hi, This is **Animesh**, a Vanilla JS Developer and I code on a mobile device.*
 - 💠 I’m interested in FOSS, Linux, WASM, ESNEXT, Neovim, Q-Learning, Bun, Minimal UIs and Maximal Performance.
 - Currently
-  - 🌱 learning OOP & regex
+  - 🌱 learning `Functional Programming` & `Algorithms`
   - 👨‍🏭 working on improving [`ytify`](https://github.com/n-ce/ytify/)
   - 📖 reading [`you don't know JS yet`](https://github.com/getify/You-Dont-Know-JS)
 - 🤝 always looking to contribute to open source projects that I use in my daily life.
