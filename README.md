@@ -16,7 +16,10 @@
 ### Computing Platform
 ```
 HW : Samsung Galaxy J4
-SW : Android 10, Chrome 108, SpckCodeEditor, Termux.
+SW : Android 10      ,
+     Chrome 108      ,
+     SpckCodeEditor 7,
+     Termux 118      .
 ```
 
 ### Technologies
