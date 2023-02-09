@@ -1,7 +1,7 @@
 - *👋 Hi, This is **Animesh**, a Vanilla JS Developer and I code on a mobile device.*
 - 💠 I’m interested in FOSS, Linux, WASM, ESNEXT, Neovim, Q-Learning, Bun, Minimal UIs and Maximal Performance.
 - Currently
-  - 🌱 learning `Functional Programming` & `Algorithms`
+  - 🌱 learning `Algorithms`
   - 👨‍🏭 working on improving [`ytify`](https://github.com/n-ce/ytify/)
   - 📖 reading [`you don't know JS`](https://github.com/getify/You-Dont-Know-JS)
 - 🤝 always looking to contribute to open source projects that I use in my daily life.
@@ -11,7 +11,7 @@
 [![](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/encetg)
 [![](https://img.shields.io/badge/Portfolio-%23121011.svg?style=for-the-badge&logo=github)](https://n-ce.github.io/)
 
-![](https://readme-stats.clckblog.space/api?username=n-ce&hide_title=true&theme=merko&hide_border=true&hide_rank=true&bg_color=0f01&border_radius=10)
+![](https://readmestats.999857.xyz/api?username=n-ce&hide_title=true&theme=merko&hide_border=true&hide_rank=true&bg_color=0f01&border_radius=10)
 
 ### Computing Platform
 ```
@@ -29,7 +29,7 @@ SW : Android 10      ,
 ![](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![](https://img.shields.io/badge/Markdown-777777?style=for-the-badge&logo=markdown&logoColor=white)
 
-![Top Langs](https://readme-stats.clckblog.space/api/top-langs/?username=n-ce&langs_count=8&layout=compact&theme=onedark&bg_color=00f1&hide_border=true&hide_title=true&border_radius=10)
+![Top Langs](https://readmestats.999857.xyz/api/top-langs/?username=n-ce&langs_count=8&layout=compact&theme=onedark&bg_color=00f1&hide_border=true&hide_title=true&border_radius=10)
 
 </div>
 
