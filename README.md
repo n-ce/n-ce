@@ -1,5 +1,5 @@
 - *👋 Hi, This is **Animesh**, a Vanilla JS Developer and I code on a mobile device.*
-- 💠 I’m interested in FOSS, Linux, WASM, ESNEXT, Neovim, Q-Learning, Bun, Minimal UIs and Maximal Performance.
+- 💠 I’m interested in FOSS, Linux, WASM, AssemblyScript, Lua, ESNEXT, Neovim, Q-Learning, Bun, Minimal UIs and Maximal Performance.
 - Currently
   - 🌱 learning `Algorithms`
   - 👨‍🏭 working on improving [`ytify`](https://github.com/n-ce/ytify/)
