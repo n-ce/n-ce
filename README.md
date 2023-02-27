@@ -1,7 +1,7 @@
 - *👋 Hi, This is **Animesh**, a Vanilla JS Developer and I code on a mobile device.*
 - 💠 I’m interested in FOSS, Linux, WASM, AssemblyScript, Lua, ESNEXT, Neovim, Q-Learning, Bun, Minimal UIs and Maximal Performance.
 - Currently
-  - 🌱 learning `Algorithms`
+  - 🌱 learning `Algorithms` & `WebComponents`
   - 👨‍🏭 working on improving [`ytify`](https://github.com/n-ce/ytify/)
   - 📖 reading [`you don't know JS`](https://github.com/getify/You-Dont-Know-JS)
 - 🤝 always looking to contribute to open source projects that I use in my daily life.
@@ -17,7 +17,7 @@
 ```
 HW : Samsung Galaxy J4
 SW : Android 10      ,
-     Chrome 108      ,
+     Chrome 110      ,
      SpckCodeEditor 7,
      Termux 118      .
 ```
