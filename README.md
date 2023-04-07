@@ -29,6 +29,11 @@ SW : Android 10      ,
 ![](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![](https://img.shields.io/badge/Markdown-777777?style=for-the-badge&logo=markdown&logoColor=white)
 
+|HTML|CSS|ES6|WebComponents|Markdown|Netlify|
+|:-:|:-:|:-:|:-:|:-:|:-:|
+|![](https://www.w3.org/html/logo/downloads/HTML5_Badge.svg)|![](https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg)|![](https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg)|![](https://web-components-resources.appspot.com/static/logo.svg)|![](https://upload.wikimedia.org/wikipedia/commons/4/41/1280px_Markdown_with_White_Background.png)|![](https://user-images.githubusercontent.com/69345507/230541824-973bdc1b-759c-4d8f-aa11-69cadc18016f.png)|
+
+
 ![Top Langs](https://readmestats.999857.xyz/api/top-langs/?username=n-ce&langs_count=8&layout=compact&theme=shades-of-purple&bg_color=00f1&hide_border=true&hide_title=true&border_radius=10)
 
 </div>
