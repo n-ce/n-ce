@@ -11,7 +11,7 @@
 [![](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/encetg)
 [![](https://img.shields.io/badge/Portfolio-%23121011.svg?style=for-the-badge&logo=github)](https://n-ce.github.io/)
 
-![](https://readmestats.999857.xyz/api?username=n-ce&hide_title=true&theme=merko&hide_border=true&hide_rank=true&bg_color=0f01&border_radius=10)
+![](https://readme-stats.clckblog.space/api?username=n-ce&hide_title=true&theme=merko&hide_border=true&hide_rank=true&bg_color=0f01&border_radius=10)
 
 ### Computing Platform
 ```
