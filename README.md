@@ -16,11 +16,11 @@
 ### Computing Platform
 ```
 HW : Samsung Galaxy J4
-     ArmV7
+     ArmV7           ,
 SW : Android 10      ,
      Chrome 110      ,
      SpckCodeEditor 7,
-     Termux 118      .
+     Termux 118      ,
      Helix 23        .
 ```
 
