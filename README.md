@@ -31,6 +31,8 @@ SW : Android 10      ,
 ![](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![](https://img.shields.io/badge/Markdown-777777?style=for-the-badge&logo=markdown&logoColor=white)
 ![](https://img.shields.io/badge/web%20components-orange?style=for-the-badge&logo=webcomponentsdotorg&logoColor=white)
+![](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+
 
 ![Top Langs](https://readmestats.999857.xyz/api/top-langs/?username=n-ce&langs_count=8&layout=compact&theme=shades-of-purple&bg_color=00f1&hide_border=true&hide_title=true&border_radius=10)
 
