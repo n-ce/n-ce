@@ -1,4 +1,4 @@
-- *👋 Hi, This is **Animesh**, a Vanilla JS Developer and I code on a mobile device.*
+- I work on developing simple and performant software for the web platform. I'm currently coding on a mobile device.
 - 💠 I’m interested in FOSS, Linux, WASM, AssemblyScript, Lua, ESNEXT, Neovim, Q-Learning, Bun, Minimal UIs and Maximal Performance.
 - Currently
   - 🌱 learning `React` & `indexedDB`
