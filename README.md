@@ -3,7 +3,7 @@
 - Currently
   - 🌱 learning `React` & `indexedDB`
   - 👨‍🏭 working on improving [`ytify`](https://github.com/n-ce/ytify/)
-  - 📖 reading [`you don't know JS`](https://github.com/getify/You-Dont-Know-JS)
+  - 📖 reading [`SOLID Principles`](https://en.m.wikipedia.org/wiki/SOLID)
 - 🤝 always looking to contribute to open source projects that I use in my daily life.
 
 <div align="center">
