@@ -1,8 +1,7 @@
-
-- I work on developing simple and performant software for the web platform. I'm currently coding on a mobile device.
-- 💠 I’m interested in FOSS, Linux, Wayland, AssemblyScript, Nim, Kotlin, Bun, Minimal UIs and Maximal Performance.
-- Currently 🌱 learning about javascript frameworks. (solid, svelte, astro, vue, angular) and 👨‍🏭 working on improving [`ytify`](https://github.com/n-ce/ytify/)
-- 🤝 always looking to contribute to open source projects that I use in my daily life.
+> I work on developing simple and performant software for the web platform. I'm currently coding on a mobile device.
+>> 💠 I’m interested in FOSS, Linux, Wayland, AssemblyScript, Nim, Kotlin, Bun, Minimal UIs and Maximal Performance.
+>>> Currently 🌱 learning about javascript frameworks. (solid, svelte, astro, vue, angular) and 👨‍🏭 working on improving [`ytify`](https://github.com/n-ce/ytify/)
+>>>> 🤝 always looking to contribute to open source projects that I use in my daily life.
 
 
 ### Computing Platform
@@ -11,7 +10,7 @@
 Computer = "Samsung Galaxy J4"
 Architechture = "Arm v7"
 [SW]
-OperatingSystem = "Android 10"
+OS = "Android 10"
 Browser = "Chrome 121"
 Terminal = "Termux 118"
 Editor = ["Helix 23", "Spck 7"]
