@@ -1,27 +1,20 @@
+
 - I work on developing simple and performant software for the web platform. I'm currently coding on a mobile device.
-- 💠 I’m interested in FOSS, Linux, WASM, AssemblyScript, Lua, ESNEXT, Neovim, Q-Learning, Bun, Minimal UIs and Maximal Performance.
-- Currently
-  - 🌱 learning `React` & `indexedDB`
-  - 👨‍🏭 working on improving [`ytify`](https://github.com/n-ce/ytify/)
-  - 📖 reading [`SOLID Principles`](https://en.m.wikipedia.org/wiki/SOLID)
+- 💠 I’m interested in FOSS, Linux, Wayland, AssemblyScript, Nim, Kotlin, Bun, Minimal UIs and Maximal Performance.
+- Currently 🌱 learning about javascript frameworks. (solid, svelte, astro, vue, angular) and 👨‍🏭 working on improving [`ytify`](https://github.com/n-ce/ytify/)
 - 🤝 always looking to contribute to open source projects that I use in my daily life.
 
-<div align="center">
-
-[![](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/encetg)
-[![](https://img.shields.io/badge/Portfolio-%23121011.svg?style=for-the-badge&logo=github)](https://n-ce.github.io/)
-
-![](https://github-readme-stats.zohan.tech/api?username=n-ce&hide_title=true&theme=merko&hide_border=true&hide_rank=true&bg_color=0f01&border_radius=10)
 
 ### Computing Platform
-```
-HW : Samsung Galaxy J4
-     ArmV7           ,
-SW : Android 10      ,
-     Chrome 110      ,
-     SpckCodeEditor 7,
-     Termux 118      ,
-     Helix 23        .
+```toml
+[HW]
+Computer = "Samsung Galaxy J4"
+Architechture = "Arm v7"
+[SW]
+OperatingSystem = "Android 10"
+Browser = "Chrome 121"
+Terminal = "Termux 118"
+Editor = ["Helix 23", "Spck 7"]
 ```
 
 ### Technologies
@@ -33,12 +26,10 @@ SW : Android 10      ,
 ![](https://img.shields.io/badge/web%20components-orange?style=for-the-badge&logo=webcomponentsdotorg&logoColor=white)
 ![](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
+---
+[![](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/encetg)
+[![](https://img.shields.io/badge/Portfolio-%23121011.svg?style=for-the-badge&logo=github)](https://n-ce.github.io/)
 
-![Top Langs](https://readmestats.999857.xyz/api/top-langs/?username=n-ce&langs_count=8&layout=compact&theme=shades-of-purple&bg_color=00f1&hide_border=true&hide_title=true&border_radius=10)
+![Profile Stats](https://readmestats.999857.xyz/api?username=n-ce&hide_title=true&theme=merko&hide_border=true&hide_rank=true&bg_color=0702&border_radius=none)
 
-</div>
-
-<!---
-n-ce/n-ce is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![Top Langs](https://readmestats.999857.xyz/api/top-langs/?username=n-ce&langs_count=8&layout=compact&theme=shades-of-purple&bg_color=0072&hide_border=true&hide_title=true&border_radius=none)
