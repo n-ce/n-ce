@@ -1,5 +1,5 @@
 > I work on developing simple and performant software for the web platform. I'm currently coding on a mobile device.
->> 💠 I’m interested in FOSS, Linux, Wayland, AssemblyScript, Nim, Kotlin, Bun, Minimal UIs and Maximal Performance.
+>> 💠 I’m interested in FOSS, Linux, Wayland, AssemblyScript, Nim, Kotlin, Bun, MLWeb, Minimal UIs and Maximal Performance.
 >>> Currently 🌱 learning about javascript frameworks. (solid, svelte, astro, vue, angular) and 👨‍🏭 working on improving [`ytify`](https://github.com/n-ce/ytify/)
 >>>> 🤝 always looking to contribute to open source projects that I use in my daily life.
 
@@ -7,16 +7,17 @@
 ### Computing Platform
 ```toml
 [HW]
-Computer = "Samsung Galaxy J4"
-Architechture = "Arm v7"
+Platform = "Moto G04"
+Architechture = "Arm v8.1-A"
 [SW]
-OS = "Android 10"
-Browser = "Chrome 121"
+System = "Android 14"
+Browser = "Chrome 122"
 Terminal = "Termux 118"
-Editor = ["Helix 23", "Spck 7"]
+Editor = "Helix 23"
 ```
 
 ### Technologies
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
