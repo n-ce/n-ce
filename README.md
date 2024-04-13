@@ -11,9 +11,9 @@ Platform = "Moto G04"
 Architechture = "Arm v8.1-A"
 [SW]
 System = "Android 14"
-Browser = "Chrome 122"
+Browser = "Chrome 123"
 Terminal = "Termux 118"
-Editor = "Helix 23"
+Editor = "Helix 24"
 ```
 
 ### Technologies
