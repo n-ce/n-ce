@@ -30,6 +30,6 @@ Editor = "Helix 24"
 [![](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/encetg)
 [![](https://img.shields.io/badge/Portfolio-%23121011.svg?style=for-the-badge&logo=github)](https://n-ce.github.io/)
 
-![Profile Stats](https://readmestats.999857.xyz/api?username=n-ce&hide_title=true&theme=merko&hide_border=true&hide_rank=true&bg_color=0702&border_radius=none)
+![Profile Stats](https://readmestats.999857.xyz/api?username=n-ce)
 
-![Top Langs](https://readmestats.999857.xyz/api/top-langs/?username=n-ce&langs_count=8&layout=compact&theme=shades-of-purple&bg_color=0072&hide_border=true&hide_title=true&border_radius=none)
+![Top Langs](https://readmestats.999857.xyz/api/top-langs/?username=n-ce&langs_count=8&layout=compact)
