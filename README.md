@@ -1,5 +1,5 @@
 > I work on developing simple and performant software for the web platform. I'm currently coding on a mobile device.
->> 💠 I’m interested in FOSS, Linux, Wayland, AssemblyScript, Nim, Kotlin, Bun, MLWeb, Minimal UIs and Maximal Performance.
+>> 💠 Languages I want to learn : **Go** (Web Servers & WASM), **Scala** (Native & JVM Program Development) & **F#** (.NET Development). 
 >>> Currently 🌱 learning about javascript frameworks. (solid, svelte, astro, vue, angular) and 👨‍🏭 working on improving [`ytify`](https://github.com/n-ce/ytify/)
 >>>> 🤝 always looking to contribute to open source projects that I use in my daily life.
 
@@ -11,7 +11,7 @@ Platform = "Moto G04"
 Architechture = "Arm v8.1-A"
 [SW]
 System = "Android 14"
-Browser = "Chrome 123"
+Browser = "Chrome 127"
 Terminal = "Termux 118"
 Editor = "Helix 24"
 ```
