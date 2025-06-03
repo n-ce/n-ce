@@ -8,7 +8,7 @@ RAM = "4 GB"
 [SW]
 System = "Android 14"
 Browser = "Chrome Stable"
-Terminal = "Termux:Monet 119"
+Terminal = "Termux 119"
 Editor = "Helix 25"
 Language = "TypeScript"
 Interpreter = "Node"
