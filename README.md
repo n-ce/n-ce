@@ -10,10 +10,10 @@ System = "Android 14"
 Browser = "Chrome Stable"
 Terminal = "Termux 119"
 Editor = "Helix 25"
-Prompting = "Gemini 3.0 Flash"
-Agenting = "Gemini CLI (3 Flash)"
+Prompting = "Gemini Web"
+Agenting = "OpenCode Go"
 Language = "TypeScript"
-Interpreter = "Node"
+Interpreter = ["Node", "Bun"]
 Libraries = ["Solid" , "Open-Props"]
 [Contact]
 Telegram = "encetg"
